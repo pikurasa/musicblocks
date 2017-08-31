@@ -69,7 +69,7 @@ msgstr "キーボード"
 msgid "You can also load projects from the file system."
 msgstr "ファイルシステムからプロジェクトをロードできますよ。"
 
-#. TRANS: as in "on event do"
+#. TRANS: as in "on event do" | Japanese grammar makes this challenging. For a start, here are words that come to mind: 際、の時、同時
 msgid "on"
 msgstr ""
 
@@ -78,7 +78,7 @@ msgstr "鶏肉"
 
 <<<<<<< HEAD
 msgid "Run music slow"
-msgstr ""
+msgstr "音楽をゆっくりに"
 
 msgid "This toolbar contains the palette buttons Matrix, Chunk, Perform, Tone, Turtle, and more. Click to show the palettes of blocks and drag blocks from the palettes onto the canvas to use them."
 msgstr ""
@@ -105,7 +105,7 @@ msgid "title"
 msgstr "名" #Maybe 題名
 
 msgid "radians"
-msgstr ""
+msgstr "ラジアン" #also ラディアン
 
 msgid "Undo"
 msgstr "取り戻す" #Uncertain about this. Maybe 元へ戻す
@@ -126,13 +126,13 @@ msgstr "ペンの大きさの設定"
 
 <<<<<<< HEAD
 msgid "rhythm"
-msgstr ""
+msgstr "リズム"
 
 msgid "latitude"
-msgstr ""
+msgstr "緯度" #ひらがな＝いど
 
 msgid "1/32 note 𝅘𝅥𝅰"
-msgstr ""
+msgstr "32分音符"
 =======
 msgid "start turtle"
 msgstr "タートルの動き出し"
@@ -145,24 +145,24 @@ msgstr "市の軽度"
 
 #. TRANS: longitude and latitude coordinate data
 msgid "Coordinate data not available."
-msgstr ""
+msgstr "座標のデータが見つかりません"＃ひらがな＝ざひょう; uncertain
 
 msgid "latitude"
 msgstr "緯度"
 >>>>>>> japanese-translation-DU
 
 msgid "mouse x"
-msgstr ""
+msgstr "x座標"
 
 msgid "mouse y"
-msgstr ""
+msgstr "y座標"
 
 msgid "Show/hide blocks"
 msgstr "ブルックを見せ隠し"　#Not too sure on grammar...
 
-#. TRANS: do this action
+#. TRANS: do this action | Japanese grammar does not make this easy
 msgid "do"
-msgstr ""
+msgstr "をする"＃を is particle and する is "to do"
 
 msgid "move"
 msgstr "動き出し"
@@ -199,7 +199,7 @@ msgstr "脂肪" #Only for the noun; not adjective.
 
 <<<<<<< HEAD
 msgid "Expand or collapse start and action stacks."
-msgstr ""
+msgstr "スタートとアクションのコードを膨らみ略し"＃　りゃくし＝abbreviate ふくらみ＝expand ; I said "code" instead of "stack"
 
 #. TRANS: a container for a variable
 msgid "boxes"
@@ -217,7 +217,7 @@ msgstr "背景"
 
 #. TRANS: logical "not" operator
 msgid "not"
-msgstr "" #Probably better in Roman letters
+msgstr "論理否定回路" #ろんりひていかいろ was found on jisho.org as "logical NOT circuit​". It says "computer terminology"
 
 msgid "Google map"
 msgstr "グーグルマップ" #To verify
@@ -231,7 +231,7 @@ msgstr "曜日" #I am assuming "day of the week". 期日 for "date"
 
 #. TRANS: mathematical modular (remainder) function.
 msgid "mod"
-msgstr "" #Roman probably better
+msgstr　"" #Need to look up this in a more specialized dictionary. I found Modular Programming as モジュラ・プログラミング 
 
 <<<<<<< HEAD
 msgid "beat factor"
@@ -352,31 +352,31 @@ msgstr "葉色"
 >>>>>>> japanese-translation-DU
 
 msgid "arc"
-msgstr ""
+msgstr "円弧"＃ひらがな＝えんこ
 
 msgid "radius"
-msgstr ""
+msgstr "半径"＃ひらがな＝はんけい
 
 msgid "longitude"
-msgstr ""
+msgstr "経度"#ひらがな＝けいど
 
 msgid "duration"
 msgstr "期間の設定"
 
 #. TRANS: shade refers to value (dark to light)
 msgid "set shade"
-msgstr ""
+msgstr "濃淡を設定"#ひらがな＝のうたん
 
 msgid "duplicate notes"
 msgstr "音符を倍にする" #This makes sense, I think, but only if 1=1 time, 2=2 times, etc
 
 #. TRANS: in mathematical sense (inverse of period)
-msgid "frequency" #like pitch frequency?
-msgstr ""
+msgid "frequency"
+msgstr "周波数"　#ひらがな＝しゅうはすう http://jisho.org/word/%E5%91%A8%E6%B3%A2%E6%95%B0  and http://en.wikipedia.org/wiki/Frequency?oldid=494868190  and http://ja.wikipedia.org/wiki/%E5%91%A8%E6%B3%A2%E6%95%B0?oldid=42704051 
 
 #. TRANS: as in the event that a signal arrives
 msgid "event"
-msgstr ""
+msgstr "行事" #ひらがな＝ぎょうじ
 
 msgid "pixel color"
 msgstr "ピクセルの色"
@@ -409,7 +409,7 @@ msgstr "ツアーが終わりました。音楽ブロックスを楽しんでく
 
 #. TRANS: vertical space
 msgid "vspace"
-msgstr ""
+msgstr "縦のスペース"#ひらがな＝たて｜垂直（すいちょく）
 
 #. TRANS: publish project to Facebook
 msgid "publish"
@@ -448,7 +448,7 @@ msgid "Expand/collapse option toolbar"
 msgstr "オプションのツールバーを開き隠し"
 
 msgid "end hollow line"
-msgstr ""
+msgstr "真空の線"#ひらがな＝しんく｜Need to check this; I am just guessing
 
 msgid "city latitude"
 msgstr "市の緯度"
@@ -458,32 +458,32 @@ msgid "fiber"
 msgstr "食物繊維をと"
 
 msgid "You can load new blocks from the file system."
-msgstr ""
+msgstr "新しいブロックをファイルシステムからロードできます"
 
 #. TRANS: mathematical power, e.g., 2^4 == 16
 msgid "power"
-msgstr ""
+msgstr "乗冪"#ひらがな＝じょうべき
 
 msgid "Settings"
 msgstr "設定"
 
 msgid "one of"
-msgstr ""
+msgstr "の中の一つ"#Literally "one from (inside) of"
 
 msgid "Save stack"
-msgstr ""
+msgstr "ブロックを方存"#Using word Block instead of "stack"
 
 msgid "corn"
 msgstr "コーン"
 
 msgid "Display statistics"
-msgstr ""
+msgstr "統計情報を見せる"#ひらがな＝とうけいじょうほう|Display is literal, but maybe not best word choice
 
 msgid "Remove all content on the canvas, including the blocks."
-msgstr ""
+msgstr "カンバスにあるのを(ブロック入り）全部消す"
 
 msgid "to radians"
-msgstr ""
+msgstr "ラジアンへ"
 
 msgid "water"
 msgstr "水"
@@ -494,7 +494,7 @@ msgstr ""
 
 #. TRANS: mathematical exponential base
 msgid "base"
-msgstr ""
+msgstr "根拠地"#ひらがな＝こんきょち (Base of Operations) ;Maybe 基数 (きすう), which means "cardinal number; base; radix​"
 
 msgid "cookie"
 msgstr "クッキー"
@@ -518,57 +518,57 @@ msgstr "数学"
 >>>>>>> japanese-translation-DU
 
 msgid "from"
-msgstr ""
+msgstr "から"＃How will "from" be used?
 
 msgid "sensors"
 msgstr "センサー"
 
 msgid "pen down"
-msgstr ""
+msgstr "ぺん降り"#Need to check on this verb
 
 #. TRANS: retrieve the value at a specific entry (index) in the heap
 msgid "index heap"
-msgstr ""
+msgstr "ヒープを採番する"＃ひらがな＝さいばん
 
 msgid "get name"
-msgstr ""
+msgstr "名をゲットする"
 
 msgid "wait"
 msgstr "待ち"
 
 #. TRANS: a container for a variable
 msgid "box"
-msgstr ""
+msgstr "ボックス"
 
 msgid "Planet"
-msgstr ""
+msgstr "プラネット"
 
 msgid "Show these messages."
-msgstr ""
+msgstr "メッセージを見せる"
 
 #. TRANS: object
 msgid "obj"
-msgstr ""
+msgstr "オブジェクト"
 
 msgid "numerator"
-msgstr ""
+msgstr "分子"#ひらがな＝ぶんし
 
 msgid "Mr. Mouse is our Music Blocks conductor. Mr. Mouse encourages you to explore the Musical Blocks, the Matrix, and the Performance/Notation possibilities of Music Blocks. \"Let\'s start our tour!\""
-msgstr ""
+msgstr "マウス先生が私たちの音楽ブロックの指揮者.マウス先生は音楽のブロック、マトリックス、音符・演奏の色々をたのしんでほしいです。ツアーを始まりましょう!" #指揮者=しきしゃ | Need to clean this up
 
 #. TRANS: store a value in a box
 msgid "store in"
-msgstr ""
+msgstr "方存"#ほうぞん means "to save"; put に before the word for "in"
 
 msgid "digest meal"
-msgstr ""
+msgstr "食事を熟す"＃ひらがな＝こなす
 
 <<<<<<< HEAD
 msgid "maths" #Why is this plural??? 数学 is math (like subject)
 msgstr ""
 
 msgid "denominator"
-msgstr ""
+msgstr "分母"#ひらがな＝ぶんぼ
 
 msgid "eighth note ♪"
 msgstr "８分音符"　#Where are other values? At any rate, they follow the same pattern as this one: ３２分音符 for 32nd 
@@ -603,7 +603,7 @@ msgstr "音の大きさ"
 
 #. TRANS: logical "or" operator
 msgid "or"
-msgstr ""
+msgstr "それとも"＃Need to see what others use
 
 msgid "note value"
 msgstr "音符の長さ" #I doubt that this is correct.
@@ -627,7 +627,7 @@ msgstr "音色"
 
 #. TRANS: evaluate Javascript code
 msgid "eval"
-msgstr ""
+msgstr "評す"#ひらがな＝ひょうす
 
 msgid "color"
 msgstr "いろ"
@@ -647,7 +647,7 @@ msgstr "ブロックの大きさを設定"
 
 #. TRANS: pop a value off of the heap.
 msgid "pop"
-msgstr ""
+msgstr "ポップ"#Guessing
 
 #. TRANS: bitcoin currency (probably no need to translate)
 msgid "bitcoin"
@@ -661,10 +661,10 @@ msgstr "画面にあるものを全部消して最初のままに戻す"
 
 #. TRANS: Boolean logic
 msgid "boolean"
-msgstr ""
+msgstr "ブーリアン"
 
 msgid "coordinates"
-msgstr ""
+msgstr "座標"#ひらがな＝ざひょう
 
 msgid "sing"
 msgstr "歌う"
@@ -679,7 +679,7 @@ msgid "Run slow"
 msgstr "ゆっくりにプレーする" #to be checked.
 
 msgid "mouse button"
-msgstr ""
+msgstr "マウスのボタン"
 
 #. TRANS: music term for dividing the beat into a different number of equal subdivisions
 msgid "tuplet"
@@ -697,45 +697,45 @@ msgstr "市"
 
 #. TRANS: carbohydrates
 msgid "get carbs"
-msgstr ""
+msgstr "炭水化物"＃たんすいかぶつ
 
 msgid "sine"
-msgstr ""
+msgstr "正弦"#せいげん
 
 msgid "Click to run the project in fast mode."
-msgstr ""
+msgstr "早く動かすためにここでクリック"#Need to check this again
 
 msgid "beef"
 msgstr "牛肉"
 
 #. TRANS: source language for translation
 msgid "source"
-msgstr ""
+msgstr "元の"#Means "of origination"
 
 msgid "unknown"
-msgstr ""
+msgstr "不詳"#ひらがな＝ふしょう｜不明ひらがな＝ふめい
 
 msgid "wait for"
-msgstr ""
+msgstr "を待つ"
 
 msgid "pen up"
-msgstr ""
+msgstr "ペン上がり"
 
 msgid "Decrease the size of the blocks."
-msgstr ""
+msgstr "ブロックの大きさを小さくする"
 
 msgid "Run note by note" #check
 msgstr "音符を一つずつに"
 
 msgid "start"
-msgstr ""
+msgstr "スタート"
 
 msgid "stock price"
-msgstr ""
+msgstr "株価"＃かぶか
 
 #. TRANS: is the heap empty?
 msgid "heap empty?"
-msgstr ""
+msgstr "ヒープを捨てる"＃Literally means "throw away the heap" | I am guessing
 
 msgid "motion z"
 msgstr ""
