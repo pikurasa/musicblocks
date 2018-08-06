@@ -1384,20 +1384,20 @@ lets you reopen the widget to fine-tune your custom timbre.
 ###  <a name="temperament"></a>4.10 Changing Temperament
 *Tempering* is the process of altering the size of an interval by making it narrower or wider than pure. It is also possible to change and create different tuning systems.
 
-![alt tag](https://rawgithub.com/riyalohia/musicblocks/master/guide/temperament1.svg "the Temperament block")
+![alt tag](https://rawgithub.com/riyalohia/musicblocks/tree/temperament_documentation/guide/temperament1.svg "the Temperament block")
 
 The *Temperament* block is used to launch a widget that enables the user to
 visualize and edit notes within an octave. 
 
 User can select a temperament system from the pie menu which is passed as an argument to the block. This name is passed to the *Set temperament* block in order to play the notes in selected temperament system. *Starting Pitch* is the argument of pitch block inside temperament block. In the above example, starting pitch is `C4`.
 
-![alt tag](https://rawgithub.com/riyalohia/musicblocks/master/guide/temperament2.svg "the Temperament widget")
+![alt tag](https://rawgithub.com/riyalohia/musicblocks/tree/temperament_documentation/guide/temperament2.svg "the Temperament widget")
 
 In the above example, selected temperament is *Just Intonation*. Notes within an octave can be viewed in the form of circle. These circles represent *pitch numbers*. Note that the pitches that are closer together in selected temperament system are visually closer and pitches that are farther apart looks farther. 
 
 The information regarding any note can be viewed by clicking on the respective circle. In the above example, circle (pitch number) `2` is `D4`. The frequency of note can be changed through edit button (left hand side corner of note information popup).
 
-![alt tag](https://rawgithub.com/riyalohia/musicblocks/master/guide/temperament3.svg "the Temperament widget")
+![alt tag](https://rawgithub.com/riyalohia/musicblocks/tree/temperament_documentation/guide/temperament3.svg "the Temperament widget")
 
 Information regarding notes can also be viewed in the form of a *table* as shown in the above example. The table will show all the information about pitches that lie within an octave. This information includes *pitch number*, *interval*, *ratio*, *note*, *frequency* and *mode*.
 
@@ -1415,20 +1415,20 @@ The widget controls are as follows:
 
 *Add* button is used to edit notes through different tools:
 
-![alt tag](https://rawgithub.com/riyalohia/musicblocks/master/guide/temperament4.svg "Equal Edit tool")
+![alt tag](https://rawgithub.com/riyalohia/musicblocks/tree/temperament_documentation/guide/temperament4.svg "Equal Edit tool")
 
 `Equal` edit tool is used to make *equal divisions* between two pitch numbers.
  In the above example, two equal divisions are made between pitch numbers `0` and `1` and the resultant number of notes within an octave are changed from 12 to 13.
 
-![alt tag](https://rawgithub.com/riyalohia/musicblocks/master/guide/temperament4.svg "Ratio Edit tool") 
+![alt tag](https://rawgithub.com/riyalohia/musicblocks/tree/temperament_documentation/guide/temperament4.svg "Ratio Edit tool") 
 
 `Ratio` edit tool is used to add notes of specified ratios in such a way that the resultant pitches wrap inside a single octave. Recursion represents the number of times notes ratio calculation is repeated. In the above example, 2 notes are added in pitch space and the resultant number of notes within an octave are changed from 12 to 14. Frequency of first pitch is (Starting Pitch Frequency) * (16/13) and second pitch is (Starting Pitch Frequency) * (16/13)².
 
-![alt tag](https://rawgithub.com/riyalohia/musicblocks/master/guide/temperament4.svg "Arbitrary Edit tool") 
+![alt tag](https://rawgithub.com/riyalohia/musicblocks/tree/temperament_documentation/guide/temperament4.svg "Arbitrary Edit tool") 
 
 `Arbitrary` edit tool is used to add note randomly. In this panel, whenever the user hovers over the outer circle, a frequency slider window pops up, allowing the user to add a note according to the defined frequency. In the above example, note will be added between pitch number `2` and `3` by moving the frequency slider.
 
-![alt tag](https://rawgithub.com/riyalohia/musicblocks/master/guide/temperament4.svg "Octave Space Edit tool")
+![alt tag](https://rawgithub.com/riyalohia/musicblocks/tree/temperament_documentation/guide/temperament4.svg "Octave Space Edit tool")
 
 `Octave Space` edit tool is used to edit octave ratio. Standard Octave Space is 2:1. In the above example, octave space will be changed to 3:1 after clicking on Done.
 
