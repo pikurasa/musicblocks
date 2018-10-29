@@ -36,7 +36,7 @@ var VOICENAMES = [
     //.TRANS: musical instrument
     [_('tamboura'), 'tamboura', 'images/voices.svg', 'string'],
     //.TRANS: musical instrument
-    [_('shamisen funky'), 'shamisenfunky', 'images/voices.svg', 'string'],
+    [_('shamisen'), 'shamisen funky', 'images/voices.svg', 'string'],
     //.TRANS: musical instrument
     [_('flute'), 'flute', 'images/voices.svg', 'wind'],
     //.TRANS: musical instrument
